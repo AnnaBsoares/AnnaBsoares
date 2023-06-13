@@ -1,6 +1,7 @@
-### Oii! Sou Anna Soares
+![gif_github ‐ Feito com o Clipchamp (1)](https://github.com/AnnaBsoares/AnnaBsoares/assets/125574851/c390f925-30cf-46fd-9b8c-4be2586982eb)
 
-- 🔭Fultura desenvolvedora Front-end
+
+- 🔭Fultura desenvolvedora Fullfull stack 
 - 🌱 Estudo ADS na Fiap 2/4
 - 😄 Pronouns: ela/dela
 
