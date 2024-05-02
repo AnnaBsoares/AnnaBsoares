@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Oi Tudo bem? Eu sou a 
     <a href="https://www.linkedin.com/in/anna-soares-2ab977247/">Anna Soares 😃️</a>
   </h1>
   
   <p align="center">
-    Futura Desenvolvedora full stack, curso 2° semestre de ADS na Fiap. </p>
+    Futura Desenvolvedora full stack, curso 3° semestre de ADS na Fiap. </p>
   </div>
   
 <div align="center">
@@ -30,7 +30,6 @@
 
 <div>
   
-  <a href="https://www.instagram.com/annakd0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:camargo.anna08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anna-soares-2ab977247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
