@@ -6,13 +6,13 @@
   </h1>
   
   <p align="center">
-    Futura Desenvolvedora full stack, curso 3° semestre de ADS na Fiap. </p>
+    Futura Desenvolvedora full stack, curso 4° semestre de ADS na Fiap. </p>
   </div>
   
 <div align="center">
   <a href="https://github.com/AnnaBsoares">
 <!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnnaBsoares&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>-->
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBsoares&theme=dracula&hide_border=false&&layout=compact"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annxsbea&theme=dracula&hide_border=false&&layout=compact"/> 
   </a>
 </div>
 
@@ -30,8 +30,8 @@
 
 <div>
   
-  <a href = "mailto:camargo.anna08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anna-soares-2ab977247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:annxsbea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/annxsbea" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
   
